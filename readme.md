@@ -5,6 +5,8 @@ The **SocialMediaRewards** smart contract is a decentralized application that al
 
 ## Contract Address
 The contract is deployed at the following Ethereum address:0x351bc0059b82aa81775f74Fc09Ce2512779818a4
+![image](https://github.com/user-attachments/assets/8f303751-0230-4b3f-a083-65efceb2739e)
+
 
 ## Key Features
 - **Task Management**: Users can complete various tasks to earn SMT tokens.
